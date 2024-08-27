@@ -35,3 +35,12 @@
 ![Forks](https://img.shields.io/github/forks/Corina-Ionelia/YOUR_REPOSITORY?style=social)
 
 
+
+
+
+## Contribuții GitHub
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Corina-Ionelia&show_icons=true&count_private=true&hide_title=true)
+![WakaTime](https://wakatime.com/badge/user/your_user_id.svg)
+![Contributors](https://img.shields.io/github/contributors/Corina-Ionelia/YOUR_REPOSITORY)
+
