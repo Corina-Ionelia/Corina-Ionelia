@@ -27,7 +27,7 @@
 
 
 
-# Proiectul Meu
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Ionelia&layout=compact)
 ![Followers](https://img.shields.io/github/followers/Corina-Ionelia?style=social)
