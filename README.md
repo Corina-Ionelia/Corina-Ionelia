@@ -25,3 +25,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Ionelia&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
+
+
+# Proiectul Meu
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corina-Ionelia&layout=compact)
+![Followers](https://img.shields.io/github/followers/Corina-Ionelia?style=social)
+![Stars](https://img.shields.io/github/stars/Corina-Ionelia/YOUR_REPOSITORY?style=social)
+![Forks](https://img.shields.io/github/forks/Corina-Ionelia/YOUR_REPOSITORY?style=social)
+
+
