@@ -37,6 +37,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 [JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
+## 🛠️ Projects
+- **[Project Name](https://github.com/Corina-Ionelia/project-repo)**
+- **[Another Project](https://github.com/Corina-Ionelia/another-project-repo)**
 
 
 
@@ -64,6 +67,15 @@
 
 - 🏆 **Pull Shark**
 - 🏅 **Quickdraw**
+
+- ![Badge](https://img.shields.io/badge/Contribution-Event%20Name-brightgreen)
+![Badge](https://img.shields.io/badge/Certification-Certification%20Name-blue)
+
+
+## 📊 Activity Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Corina-Ionelia&theme=dark)
+![GitHub Contributions](https://github-contributions.vercel.app/api/?username=Corina-Ionelia)
+
 
 
 
