@@ -1,5 +1,6 @@
 # Hi, I’m @Corina-Ionelia 👋
-![Banner](https://i.imgur.com/your-banner-image.png)
+![Banner](https://img.shields.io/badge/-Welcome%20to%20My%20GitHub%20Profile!-2B2D34?style=flat&logo=github&logoColor=white)
+
 
 
 
