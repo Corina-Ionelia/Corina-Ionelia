@@ -1,5 +1,6 @@
 # Hi, I’m @Corina-Ionelia 👋
-![Banner](https://your-banner-url.com/banner.png)
+![Banner](https://github.com/username/repo/raw/main/path/to/your-image.png)
+
 
 
 👀 **Interested in**: Web application development and software quality assurance. Learning more about Full Stack development and software testing to improve skills.
@@ -60,8 +61,8 @@
 
 ## Achievements
 
-- 🏆 **Pull Shark**: Merged pull requests and contributed to multiple projects.
-- 🏅 **Quickdraw**: Recognized for fast and effective problem-solving in coding challenges.
+- 🏆 **Pull Shark**
+- 🏅 **Quickdraw**
 
 
 
