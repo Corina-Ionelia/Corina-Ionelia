@@ -21,3 +21,7 @@
 ⚡ Why do programmers prefer dark mode? Because light attracts bugs!
 
 **Thank you for visiting my profile! Feel free to check out my repositories and connect with me.**
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Ionelia&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
