@@ -1,5 +1,5 @@
 # Hi, I’m @Corina-Ionelia 👋
-![Banner](https://github.com/username/repo/raw/main/path/to/your-image.png)
+![Banner](https://i.imgur.com/your-banner-image.png)
 
 
 
