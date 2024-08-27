@@ -46,10 +46,8 @@
 ## Learning Goals
 📖 I’m currently learning more in-depth JavaScript, integration of different APIs, and Next.js.
 
-## Fun Fact
-⚡ Why do programmers prefer dark mode? Because light attracts bugs!
-
-**Thank you for visiting my profile! Feel free to check out my repositories and connect with me.**
+😄 Fun Fact
+- **I love coding while listening to classical music.** It helps me stay focused and creative!*
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Ionelia&show_icons=true&hide_title=true&hide=prs&count_private=true)
@@ -74,7 +72,7 @@
 
 ## 📊 Activity Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Corina-Ionelia&theme=dark)
-![GitHub Contributions](https://github-contributions.vercel.app/api/?username=Corina-Ionelia)
+
 
 
 
