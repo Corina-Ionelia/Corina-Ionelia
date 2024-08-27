@@ -39,11 +39,6 @@
 
 
 
-![Pull Sharkx2](https://img.shields.io/badge/Achievement-Pull%20Sharkx2-brightgreen)
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-blue)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-yellow)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-orange)
-
 
 
 
