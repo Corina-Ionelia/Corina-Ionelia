@@ -47,7 +47,7 @@
 📖 I’m currently learning more in-depth JavaScript, integration of different APIs, and Next.js.
 
 😄 Fun Fact
-- **I love coding while listening to classical music.** It helps me stay focused and creative!*
+- **Why do programmers prefer dark mode? Because light attracts bugs!*
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corina-Ionelia&show_icons=true&hide_title=true&hide=prs&count_private=true)
