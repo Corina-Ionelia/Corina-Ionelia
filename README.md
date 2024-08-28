@@ -10,7 +10,7 @@
 
 💞️ **Looking to collaborate on**: Projects where development and software testing knowledge can be applied. Enjoy working in teams and learning new things.
 
-📫 **How to reach me**: Feel free to send an email or visit [GitHub](https://github.com/your-username) or [LinkedIn](https://www.linkedin.com/in/your-linkedin). Open to connecting with other professionals and discussing potential opportunities.
+📫 **How to reach me**: Feel free to send an email or visit [GitHub](https://[github.com/your-username](https://github.com/Corina-Ionelia)) or [LinkedIn][(https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/corina-gavrila/). Open to connecting with other professionals and discussing potential opportunities.
 
 📄 **More info**: [My Portfolio and CV]([https://your-portfolio-link.com)](https://corina-ionelia.github.io/CV/)
 
