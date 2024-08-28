@@ -12,7 +12,7 @@
 
 📫 **How to reach me**: Feel free to send an email or visit [GitHub](https://github.com/your-username) or [LinkedIn](https://www.linkedin.com/in/your-linkedin). Open to connecting with other professionals and discussing potential opportunities.
 
-📄 **More info**: [My Portfolio and CV](https://your-portfolio-link.com)
+📄 **More info**: [My Portfolio and CV]([https://your-portfolio-link.com)](https://corina-ionelia.github.io/CV/)
 
 ### Languages
 
