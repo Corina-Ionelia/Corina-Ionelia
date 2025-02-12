@@ -12,7 +12,7 @@
 
 📫 **How to reach me**: Feel free to send an email or visit [GitHub](https://github.com/Corina-Ionelia) or [LinkedIn](https://www.linkedin.com/in/corina-gavrila/). Open to connecting with other professionals and discussing potential opportunities.
 
-📄 **More info**: [My Portfolio and CV](https://corina-ionelia.github.io/CV/)
+📄 **More info**: [My Portfolio https://corina-ionelia.github.io/Corina-WEB/]
 
 ### Languages
 
